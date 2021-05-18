@@ -12,6 +12,6 @@ int main ()
 
     std::cout <<a*b;
 
-    std::cout <<a*b;
+    std::cout <<a/b
 return 0;
 }
