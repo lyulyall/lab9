@@ -1,3 +1,10 @@
 #include<std.h>
 int main ()
-{ return 0;}
+{ 
+	std::cout << "write number a and b";
+
+    std::cin >>a>>b;
+
+    std::cout <<a+b;
+return 0;
+}
