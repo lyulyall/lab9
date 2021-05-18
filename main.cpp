@@ -1,4 +1,5 @@
 #include<std.h>
+// учебная программа
 int main ()
 { 
 	std::cout << "write number a and b";
